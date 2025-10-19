@@ -5,7 +5,7 @@ this repo contains a web port of Undertale by toby fox.
 everything was created by .shortpie. and you can find the original at https://deltarune.win
 
 > [!TIP]
-> To bypass the ownership check, you can run the index.html in one of the chapter folders directly.
+> To bypass the ownership check, you can run the index.html in the play folder directly.
 
 > [!WARNING]
 > THIS PROJECT IS FOR EDUCATIONAL PURPOSES ONLY. DO NOT DISTRIBUTE THIS.
